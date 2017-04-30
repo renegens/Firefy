@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firefy</string>
+    <string name="google_maps_api_key">AIzaSyBdAWa8YREmblnH8fW_2NHrgZyE8jfq47A</string>
+
+    <!-- Main Report Screen-->
+    <string name="main_report_title">Fire Report</string>
+
+</resources>

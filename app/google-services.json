@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189003586563",
+    "firebase_url": "https://firefy-d9101.firebaseio.com",
+    "project_id": "firefy-d9101",
+    "storage_bucket": "firefy-d9101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189003586563:android:bfef0de4e49ea766",
+        "android_client_info": {
+          "package_name": "com.renegens.firefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189003586563-e1ve0q3gckc7d2lf2bf7rr974tqdpc7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renegens.firefy",
+            "certificate_hash": "4656d900fba9883352a373342fa01d5eb6486279"
+          }
+        },
+        {
+          "client_id": "189003586563-f9591a0tiehc5mhaglhi2ib3rs395e7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqA5aVFdAW7WTGE2D3bU8PulhvYZv_kDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189003586563-f9591a0tiehc5mhaglhi2ib3rs395e7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
